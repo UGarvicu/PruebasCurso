@@ -1,2 +1,2 @@
-wefmaiowemg# PruebasCurso
+# PruebasCurso
 Repositorio de pruebas
